@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <!--
 **marcos-queiroz/marcos-queiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Marcos Queiroz
+
+Bacharel em Sistemas de Informação pelas Faculdade de Ciências Exatas e Tecnológicas Santo Agostinho.
+
+[WebSite](https://marcosmqueiroz.com/)
+[LinkedIn](https://www.linkedin.com/in/marcosmqueiroz)
