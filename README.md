@@ -19,3 +19,11 @@ Bacharel em Sistemas de Informação pelas Faculdade de Ciências Exatas e Tecno
 
 [WebSite](https://marcosmqueiroz.com/)
 [LinkedIn](https://www.linkedin.com/in/marcosmqueiroz)
+
+<span align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcos-queiroz&show_icons=true&title_color=fff&icon_color=d76aa8&text_color=9f9f9f&bg_color=0d1117" alt="Github Stats" height=175/>
+</span>
+
+<span align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-queiroz&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=0d1117" alt="Github Stats" height=175 />
+</span>
